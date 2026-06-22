@@ -28,14 +28,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshoots/desktop-screen.jpeg)
-![](./screenshoots/mobile-screen.png)
-![](./screenshoots/focuse-state.jpeg)
+![desktop-screen](./screenshoots/desktop-screen.jpeg)
+![mobile-screen](./screenshoots/mobile-screen.png)
+![focuse-state](./screenshoots/focuse-state.jpeg)
 
 ### Links
 
-* Solution URL: [Add your Frontend Mentor solution URL here]
-* Live Site URL: [Add your GitHub Pages URL here]
+* [Solution URL: ](https://github.com/fadmaamgoune/Frontend-Mentor---Social-Links-Profile-Solution)
+* [Live Site URL: ](https://fadmaamgoune.github.io/Frontend-Mentor---Social-Links-Profile-Solution/)
 
 ## My process
 
