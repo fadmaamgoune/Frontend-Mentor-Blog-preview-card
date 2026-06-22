@@ -1,6 +1,6 @@
-# Frontend Mentor - Social Links Profile Solution
+# Frontend Mentor - Blog preview card Solution
 
-This is a solution to the Social Links Profile challenge on Frontend Mentor. The goal of this project was to build a responsive profile card and practice fundamental HTML and CSS skills.
+This is a solution to the Blog Preview Card challenge on Frontend Mentor. The goal of this project was to build a responsive blog preview card and practice fundamental HTML and CSS skills.
 
 ## Table of contents
 
@@ -23,14 +23,14 @@ This is a solution to the Social Links Profile challenge on Frontend Mentor. The
 
 Users should be able to:
 
-* View the profile card on different screen sizes
+* View the blog card on different screen sizes
 * See hover and active states for all interactive elements
 
 ### Screenshot
 
 ![desktop-screen](./screenshoots/desktop-screen.jpeg)
 ![mobile-screen](./screenshoots/mobile-screen.png)
-![focuse-state](./screenshoots/focuse-state.jpeg)
+![active-state](./screenshoots/focuse-state.jpeg)
 
 ### Links
 
