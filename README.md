@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-* [Solution URL: ](https://github.com/fadmaamgoune/Frontend-Mentor---Social-Links-Profile-Solution)
-* [Live Site URL: ](https://fadmaamgoune.github.io/Frontend-Mentor---Social-Links-Profile-Solution/)
+* [Solution URL](https://github.com/fadmaamgoune/Frontend-Mentor-Blog-preview-card)
+* [Live Site URL](https://fadmaamgoune.github.io/Frontend-Mentor-Blog-preview-card/))
 
 ## My process
 
